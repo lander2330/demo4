@@ -1,0 +1,2 @@
+This ESP32 microcontroller project shows how to program a digital 38khz infrared receiver module to read codes sent by an infrared remote control.  This particular remote control is able to send codes representing uppercase and lowercase characters, special characters, as well as numeric characters, etc. The inexpensive Smart TV Remote Control is available online. Because of its ability to transmit a wide range of codes, I use it as a tool for configuring user settings in my ESP32 projects.
+ 
